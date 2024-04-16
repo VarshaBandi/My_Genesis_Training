@@ -1,0 +1,5 @@
+bill.h
+customer.h
+date.h
+
+bill array-3 bills(bill amount,avg amount)
